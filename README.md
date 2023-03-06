@@ -2,11 +2,11 @@
 ## **<h2 align="center"> 🎲 Dice Roller Game 💻</h2>**
 
 <h2 align="center"> 
-        ✔️
+        🏆🏆
 </h2>
 <br>
 <p align="center">
-  <a href="#computer-demonstration-of-the-application">Demonstration of the application</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#computer-demonstration-of-the-application">Demonstration of the Game</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#star-features">Features</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#rocket-technologies-used">Technologies used</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#information_source-application-installation"> How to play the game </a>
@@ -15,7 +15,7 @@
 # :computer: Demonstration of the Game
 
 <p align="center">
-  <img src="https://ik.imagekit.io/mcvhbcq4zu/forkify_nrvzWVRzk.gif?ik-sdk-version=javascript-1.4.3&updatedAt=1648473365812" width="1400px"/>
+  <img src="demo.png" width="1400px"/>
 </p>
 
 <br>
